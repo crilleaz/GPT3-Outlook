@@ -16,7 +16,7 @@ while True:
     for message in messages:
         if message.UnRead:
             soup = bs4.BeautifulSoup(message.Body, "html.parser")
-            content = soup.get_text().split("Från:")[0]
+            content = soup.get_text().split("From:")[0]
             
             response = openai.Completion.create(
                 engine="text-davinci-003",
