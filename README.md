@@ -6,6 +6,7 @@ Tired of answering emails? Look no further! OpenAI's GPT3 takes care of that for
 * gh repo clone crilleaz/GPT3-Outlook
 * Change openai.api_key
 * Enter your signature
+* run GPT3-Outlook.py
 * Enjoy
 
 # Discord
