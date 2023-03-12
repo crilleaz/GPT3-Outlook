@@ -7,7 +7,7 @@ Tired of answering emails? Look no further! OpenAI's GPT3 takes care of that for
 * Change openai.api_key
 * Enter your signature
 * Have Outlook desktop client running
-* run GPT3-outlook.py / GPT3.5-Turbo-Outlook.py
+* run GPT3-outlook.py / ChatGPT3.5-Turbo-Outlook.py
 * Enjoy
 
 # Tweaking
