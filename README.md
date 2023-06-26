@@ -17,4 +17,4 @@ Tired of answering emails? Look no further! OpenAI's GPT3 takes care of that for
 * max_tokens and temperature can be changed for your likings
 
 # Discord
-Crille#6623
+Crilleaz
